@@ -5,10 +5,10 @@ Maintainer: Nineveh <nineveh.lyra@pm.me>
 Installed-Size: 110500
 Depends: libc6, libgl1, libx11-6, libfontconfig1, libfreetype6, libheif1, libde265-0, libopenexr-3-1-30, libopenjp2-7, libtiff6, libzstd1
 Filename: pool/main/l/lyra-viewer/lyra-viewer_0.5.0_amd64.deb
-Size: 38274708
-MD5sum: de6fd4ffd4ebe57df92490bf7b8e520b
-SHA1: 6bd6438d47b000cfcfa87d8f66a77f4fe98b9075
-SHA256: b02025bd63e0f93c3d4e1cfeab688d3b6695a94155f463cf9380dbc2551acf86
+Size: 38274140
+MD5sum: 657ef0e9a31fafcf3177a144ab0dcc80
+SHA1: a778d25bb10f300ffb591d374821172dee45afd3
+SHA256: 45e12f9a4d02f85e2c2bfbe16aeb93b4e8fdfc3d87f2fc50f15a8aa7daf57197
 Section: graphics
 Priority: optional
 Description: Fast, minimalist image viewer (SDL3 + SkiaSharp)

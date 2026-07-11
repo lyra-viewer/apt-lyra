@@ -1,19 +1,19 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 11 Jul 2026 11:44:18 +0000
+Date: Sat, 11 Jul 2026 18:59:09 +0000
 Label: Lyra Viewer
 Origin: Lyra Viewer
 Suite: stable
 MD5Sum:
- dc9cefbb111097cd554e180b0d9aed95              864 main/binary-amd64/Packages
- 2dfa7e8e12bfefb11376f83f66de31c9              590 main/binary-amd64/Packages.gz
+ 17831f04a18615962c026bf14af3906c              864 main/binary-amd64/Packages
+ 8df41c49bbb51a84d9be938ef787dd32              593 main/binary-amd64/Packages.gz
 SHA1:
- f8caa676181be316c7098cf279cdfe48160f2ce1              864 main/binary-amd64/Packages
- 536e0d5a42b48dd73c3b95f8d75853dc4e2fb8d2              590 main/binary-amd64/Packages.gz
+ 815478525ebd63523cb43f7ffa1512e4346a622c              864 main/binary-amd64/Packages
+ 129ce6a97e6d734f17bf88c68faae6aca3e34bb7              593 main/binary-amd64/Packages.gz
 SHA256:
- 8e6cff587ab47fee3d982281f326346a8488115b448c8a8220025144500386f6              864 main/binary-amd64/Packages
- 4bc149afc27893454c707ba5dd1bf58c096315737a4a4ff014b4ba279e59cf73              590 main/binary-amd64/Packages.gz
+ e478fcc5599bfee26efa58199454d95ad4aa99e5e3ef0e7b01d0f0017a29e529              864 main/binary-amd64/Packages
+ 2b32089dc7dee32b426d3b31d7d1c18726e45ba83147805e871e4ca8ed8636b1              593 main/binary-amd64/Packages.gz
 SHA512:
- dab0e138b2157bd79d3338c423edcb868ffe6c02d85b8da40605c581ad50b7923da93fe9e9e8d2362f1b48cf4926042b3914e7679688894ab73a983433ee5e25              864 main/binary-amd64/Packages
- d6c676cf8b80fb91e75ac138b94b4c491bbb0959f2d9ab75be9cdb09b757319807c5ffc5351f5a1b0c085f6b2e0a75f0a7a6f16c8c092fe3d344214b2412ead7              590 main/binary-amd64/Packages.gz
+ 657e0d70e377d8a8deadaf03acc6409d5855eb541f8a175c9a5d156bcdf74cb03391585e0c778d90102a27e0507a1975c4c4cd7114506a9f879c925823cca9b1              864 main/binary-amd64/Packages
+ 5e24720ae2be2bb8fd63bb96eabcb1a4303815271c251d436d2d1b7b840f538ba3fc19667886f7c96d334ac5faac0913c94e14ffb2a7bf0f12f66c18cd5ec0e9              593 main/binary-amd64/Packages.gz
