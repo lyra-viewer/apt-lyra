@@ -1,4 +1,4 @@
-# Lyra Viewer — APT repository
+# Lyra Viewer - APT repository
 
 The APT distribution channel for [Lyra Viewer](https://github.com/lyra-viewer/Lyra).
 
