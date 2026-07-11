@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 11 Jul 2026 11:44:18 +0000
+Label: Lyra Viewer
+Origin: Lyra Viewer
+Suite: stable
+MD5Sum:
+ dc9cefbb111097cd554e180b0d9aed95              864 main/binary-amd64/Packages
+ 2dfa7e8e12bfefb11376f83f66de31c9              590 main/binary-amd64/Packages.gz
+SHA1:
+ f8caa676181be316c7098cf279cdfe48160f2ce1              864 main/binary-amd64/Packages
+ 536e0d5a42b48dd73c3b95f8d75853dc4e2fb8d2              590 main/binary-amd64/Packages.gz
+SHA256:
+ 8e6cff587ab47fee3d982281f326346a8488115b448c8a8220025144500386f6              864 main/binary-amd64/Packages
+ 4bc149afc27893454c707ba5dd1bf58c096315737a4a4ff014b4ba279e59cf73              590 main/binary-amd64/Packages.gz
+SHA512:
+ dab0e138b2157bd79d3338c423edcb868ffe6c02d85b8da40605c581ad50b7923da93fe9e9e8d2362f1b48cf4926042b3914e7679688894ab73a983433ee5e25              864 main/binary-amd64/Packages
+ d6c676cf8b80fb91e75ac138b94b4c491bbb0959f2d9ab75be9cdb09b757319807c5ffc5351f5a1b0c085f6b2e0a75f0a7a6f16c8c092fe3d344214b2412ead7              590 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEOosc6GZb8+vndpTAur1rSsFoTwsFAmpSLJITHG5pbmV2ZWgu
+bHlyYUBwbS5tZQAKCRC6vWtKwWhPC4NJEACn8NTkbiv4RBed7V/bxTugvmEBgCT1
+D/GcIVxgPHr5BbWXGm/pGp9t/+Ag9jVZgnTahGzI/XavDCTtDUQVnv8abwmay0Zk
+qVQ+TEQoXmiohOu1WXQRG8KO9ctXJ08n6tEQGcDkbUSW+gGq9bUofT/RPVNJLgqx
+EeT7dhlbAZtZeU4wsbKtnjDGKPaVF4pMa6HkkydmrF+R7Wd7Yw4CYayH0pca68/H
+Gu7e/t9crKGRNTkAW8Yvx09QHvquv8W5Q+oVLy8ASCQeEkQg2U7KXJaS4qE3Ow7k
+nGez3Xbk3OiqQCy3hR/p/sAK8kvcJCNwU2a+1kiEKAPdNjT03PDt9UdkshqehNux
+Wxgbs16YWwdUWa6gQell+uP9YwYKHcUeBku8dzMUllMDvY/8zs5ayMPApFRMCqFA
+qBAM54p71289zF9nGql6VYrWDBiLizK4Mf0H3edmGsBJebl/HbxZN+Y44zfvWqbh
+pcUhL8KbIL6DNRH6rGVL7DWZVKgf7vOxkat9DwICmQ+4lPqNwVtynNTIu8mGxqWP
+kbx1lljYAhxacEjkWgnMp/WZpjg5nnEnHtPzEYc/Sxm5JAO26l/ixiZsSYy80wh2
+Mki6xljUzNxswdTVNx6hafwOJvFd5+LFQ8pZqG36QkwMARTUW0VYIgmnWNHPqlmO
+88JuUuYcuizDcA==
+=zf/G
+-----END PGP SIGNATURE-----
