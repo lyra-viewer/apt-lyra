@@ -14,7 +14,7 @@ sudo mkdir -p /etc/apt/keyrings
 curl -fsSL https://lyra-viewer.github.io/apt-lyra/lyra-archive-keyring.asc \
   | sudo gpg --dearmor -o /etc/apt/keyrings/lyra.gpg
 
-# 2. Add the repository ("tap")
+# 2. Add the repository
 echo "deb [signed-by=/etc/apt/keyrings/lyra.gpg] https://lyra-viewer.github.io/apt-lyra stable main" \
   | sudo tee /etc/apt/sources.list.d/lyra.list
 
